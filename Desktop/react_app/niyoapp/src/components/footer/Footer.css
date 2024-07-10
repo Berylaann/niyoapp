@@ -1,0 +1,12 @@
+footer {
+    background: black;
+    color: white;
+    align-items: center;
+    }
+h2 {
+    text-align: center;
+    padding: 20px;
+}
+p {
+    text-align: center;
+}
